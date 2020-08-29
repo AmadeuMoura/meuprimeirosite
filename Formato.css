@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+.texto {
+    width: 300px;
+    height: 400px;
+    margin: 10px rgba(0,0,0,0.7);
+    background-color: blueviolet;
+    padding: 12px;
+}
+
+body{
+    background-color: cyan;
+    justify-self: stretch;
+}
